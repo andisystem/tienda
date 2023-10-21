@@ -1,0 +1,90 @@
+[
+    {
+        "id": "drone-plegable-s173wf",
+        "titulo": "Drone Plegable Cámara WiFi HD 2.4G Vanguard Aircraft S173WF",
+        "imagen": "./img/drones/s173wf/dron-s173wf-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 212800,
+        "href": "./productos/drones/dron-plegable-s173wf.html"
+    },
+    {
+        "id": "camara-de-seguridad-360",
+        "titulo": "Cámara de Seguridad WiFi Full HD Robótica 360°",
+        "imagen": "./img/camaras/camara-de-seguridad-360/camara-de=seguridad-360-1.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 86400,
+        "href": "./productos/camaras/camara-de-seguridad-360.html"
+    },
+    {
+        "id": "radio-carro-android",
+        "titulo": "Radio Carro Android 9 Pantalla 10 Pulgadas WiFi Gps 1 Din + Cámara",
+        "imagen": "./img/camaras/radio-carro-android/radio-carro-android-2.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 554600,
+        "href": "./productos/camaras/radio-carro-android.html"
+    },
+    {
+        "id": "cable-para-impresora-usb-tipo-ab-5-metros",
+        "titulo": "Cable para Impresora USB Tipo A-B Alta Velocidad 5 Metros",
+        "imagen": "./img/accesorios/cable-para-impresora-usb-tipo-ab-5-metros/cable-para-impresora-usb-tipo-ab-5-metros-1.jpeg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 46900,
+        "href": "./productos/accesorios/cable-para-impresora-usb-tipo-ab-5-metros.html"
+    },
+    {
+        "id": "hosting-web-pro",
+        "titulo": "Hosting Web Pro",
+        "imagen": "./img/servidores-y-hosting/hosting/hosting-web-pro-1.jpeg",
+        "categoria": {
+            "nombre": "Servidores y hosting",
+            "id": "servidores-y-hosting"
+        },
+        "precio": 384000,
+        "href": "./productos/servidores-y-hosting/hosting-web-pro.html"
+    },
+    {
+        "id": "drone-plegable-f195",
+        "titulo": "Drone WiFi con Cámara Doble Estuche F195 Estabilizador Vuelo",
+        "imagen": "./img/drones/f195/dron-f195-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 258200,
+        "href": "./productos/drones/drone-plegable-f195.html"
+    },
+    {
+        "id": "drone-profesional-sjrc-s70w",
+        "titulo": "Drone Profesional Sjrc S70w 1080p GPS Sígueme Auto Retorno",
+        "imagen": "./img/drones/sjrc-s70w/dron-sjrc-s70w-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 1181200,
+        "href": "./productos/drones/drone-profesional-sjrc-s70w.html"
+    },
+    {
+        "id": "camara-gopro",
+        "titulo": "Cámara Gopro Mejor Calidad Full HD Sumergible 1080p",
+        "imagen": "./img/camaras/gopro/camara-gopro-1.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 75600,
+        "href": "./productos/camaras/camara-gopro.html"
+    }
+]

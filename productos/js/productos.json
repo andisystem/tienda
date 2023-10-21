@@ -1,0 +1,35 @@
+[
+    {
+        "id": "drone-plegable-s173wf",
+        "titulo": "Drone Plegable Cámara WiFi HD 2.4G Vanguard Aircraft S173WF",
+        "imagen": "./img/drones/s173wf/dron-s173wf-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 212800,
+        "href": "./productos/drones/dron-plegable-s173wf.html"
+    },
+    {
+        "id": "camara-de-seguridad-360",
+        "titulo": "Cámara de Seguridad WiFi Full HD Robótica 360°",
+        "imagen": "./img/camaras/camara-de-seguridad-360/camara-de-seguridad-360-1.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 86400,
+        "href": "./productos/camaras/camara-de-seguridad-360.html"
+    },
+    {
+        "id": "radio-carro-android",
+        "titulo": "Radio Carro Android 9 Pantalla 10 Pulgadas WiFi Gps 1 Din + Cámara",
+        "imagen": "./img/camaras/radio-carro-android/radio-carro-android-2.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 86400,
+        "href": "./productos/camaras/radio-carro-android.html"
+    }
+]
