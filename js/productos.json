@@ -86,5 +86,16 @@
         },
         "precio": 75600,
         "href": "./productos/camaras/camara-gopro.html"
+    },
+    {
+        "id": "caja-calabaza-halloween",
+        "titulo": "Plantilla Caja Calabaza Halloween para Tortas",
+        "imagen": "./img/decoraciones-y-disenos/cajas/caja-calabaza-halloween-1.jpg",
+        "categoria": {
+            "nombre": "Decoraciones y diseños",
+            "id": "decoraciones-y-disenos"
+        },
+        "precio": 5500,
+        "href": "./productos/decoraciones-y-disenos/cajas-calabaza-haloween.html"
     }
 ]
