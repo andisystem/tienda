@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Plantilla Caja Calabaza Halloween para Tortas</title>
+		<link rel="stylesheet" href="../css/producto.css" />
+	</head>
+	<body>
+		<header>
+			<h1>DigitalShop</h1>
+		</header>
+
+		<div class="container-title">Plantilla Caja Calabaza Halloween para Tortas</div>
+
+		<main>
+			<div class="container-img">
+				<img
+					src="../img/decoraciones-y-disenos/caja-calabaza-halloween-1.jpg"
+					alt="imagen-producto"
+					id="ProductImg"
+				/>
+				<div class="small-img-row">
+					<div class="small-img-col">
+                        <img src="../img/decoraciones-y-disenos/caja-calabaza-halloween-1.jpg" width="100%" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="../img/decoraciones-y-disenos/caja-calabaza-halloween-2.jpg" width="100%" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="../img/decoraciones-y-disenos/caja-calabaza-halloween-3.jpg" width="100%" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="../img/decoraciones-y-disenos/caja-calabaza-halloween-4.jpg" width="100%" class="small-img">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="../img/decoraciones-y-disenos/caja-calabaza-halloween.jpg" width="100%" class="small-img">
+                    </div>
+                </div>
+			</div>
+			<div class="container-info-product">
+				<div class="container-price">
+					<span>$5.500</span>
+					<i class="fa-solid fa-angle-right"></i>
+				</div>
+
+				<br />
+
+				<div class="container-add-cart">
+					<div class="container-quantity">
+						<input
+							type="number"
+							placeholder="1"
+							value="1"
+							min="1"
+							class="input-quantity"
+						/>
+						<div class="btn-increment-decrement">
+							<i class="fa-solid fa-chevron-up" id="increment"></i>
+							<i class="fa-solid fa-chevron-down" id="decrement"></i>
+						</div>
+					</div>
+					<button class="btn-add-to-cart">
+						<i class="fa-solid fa-plus producto-agregar"></i>
+						Añadir al carrito
+					</button>
+					<button class="btn-add-to-cart" id="boton-volver">
+						<i class="fa-solid fa-backward"></i>
+						Volver
+					</button>
+					<a target="_blank" href="https://api.whatsapp.com/send?phone=573213900071&amp;text=Buen%20d%C3%ADa,%20necesito%20que%20me%20haga%20un%20diseño%20personalizado%20para%20la%20caja%20en%20forma%20de%20calabaza">
+						<button class="btn-add-to-cart" id="boton-volver">
+							<i class="fa-brands fa-whatsapp"></i>
+							Contáctame
+						</button>
+					</a>
+				</div>
+
+				<div class="container-description">
+					<div class="title-description">
+						<h4>Descripción</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-description">
+						<p>
+							Plantilla de caja de calabaza incluye un formato de plantilla para imprimir de tamaño . Incluye formatos Illustrator, EPS y DXF para abrirlo en Silhouette Studio.
+						</p>
+					</div>
+				</div>
+
+				<div class="container-additional-information">
+					<div class="title-additional-information">
+						<h4>Información adicional</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-additional-information hidden">
+						<p>Una vez realizado el pago se entrega el archivo comprimible</p>
+					</div>
+				</div>
+
+				<div class="container-reviews">
+					<div class="title-reviews">
+						<h4>Especificaciones técnicas</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-reviews hidden">
+						<p>
+							Formato: Digital<br />
+							Extensiones: Illustraor (AI), PostScript encapsulado (EPS) , Archivo de intercambio de AutoCAD (DXF)<br />
+							Tamaño: Sin armar 68,19 x 60,5 cm y armado 19 x 19 x 15,84 cm (Ancho, largo y alto) 
+							Se requiere uso de plotter de corte<br />
+							Se requiere software Silhouette Studio: Si
+						</p>
+					</div>
+				</div>
+
+				
+			</div>
+		</main>
+
+		<script
+			src="https://kit.fontawesome.com/81581fb069.js"
+			crossorigin="anonymous"
+		></script>
+		<script src="../js/producto.js"></script>
+		<script src="../js/carrito.js"></script>
+		<script type="text/javascript">
+			function actualizarBotonesAgregar() {
+				botonesAgregar = document.querySelectorAll(".producto-agregar");
+
+				botonesAgregar.forEach(boton => {
+					boton.addEventListener("click", agregarAlCarrito);
+				});
+			}
+			// Agregar un evento de clic al botón "Añadir al carrito"
+			agregarAlCarritoButton.addEventListener("click", () => {
+				const cantidad = parseInt(cantidadInput.value);
+				const producto = {
+					nombre: "Título del producto",
+					precio: 95.00,
+					cantidad: cantidad,
+				};
+				
+				// Agregar el producto al carrito (esto es solo un ejemplo)
+				agregarProductoAlCarrito(producto);
+
+				// Redirigir a la página del carrito
+				window.location.href = "carrito.html";
+			});
+
+			function agregarProductoAlCarrito(producto) {
+				// Recupera el carrito del almacenamiento local
+				const carrito = JSON.parse(localStorage.getItem("carrito")) || [];
+
+				// Agrega el producto al carrito
+				carrito.push(producto);
+
+				// Guarda el carrito actualizado en el almacenamiento local
+				localStorage.setItem("carrito", JSON.stringify(carrito));
+			}
+		</script>
+
+		<!------ js for product gallery ------>
+
+		<script type="text/javaScript">
+			var ProductImg = document.getElementById("ProductImg");
+			var SmallImg = document.getElementsByClassName("small-img");
+	
+			SmallImg[0].onclick = function(){
+				ProductImg.src =  SmallImg[0].src;
+			}
+			SmallImg[1].onclick = function(){
+				ProductImg.src =  SmallImg[1].src;
+			}
+			SmallImg[2].onclick = function(){
+				ProductImg.src =  SmallImg[2].src;
+			}
+			SmallImg[3].onclick = function(){
+				ProductImg.src =  SmallImg[3].src;
+			}
+			SmallImg[4].onclick = function(){
+				ProductImg.src =  SmallImg[4].src;
+			}
+	
+
+			//VOLVER A LA PÁGINA ANTERIOR
+
+			// Agregar un evento de clic al botón "Volver" o "Back"
+			const botonVolver = document.getElementById("boton-volver"); // Asegúrate de que el botón tenga un ID correspondiente en tu HTML
+
+			botonVolver.addEventListener("click", () => {
+				window.history.back(); // Esto volverá a la página anterior en el historial del navegador
+			});
+		</script>
+	</body>
+</html>
