@@ -97,5 +97,16 @@
         },
         "precio": 5500,
         "href": "./productos/decoraciones-y-disenos/cajas-calabaza-halloween.html"
+    },
+    {
+        "id": "drone-dji-mini-4-pro",
+        "titulo": "Drone DJI Mini 4 Pro 48 MP 4K 34 min gris 5.8GHz 1 Batería",
+        "imagen": "./img/drones/dji-mini-4-pro/drone-dji-mini-4-pro-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 4260000,
+        "href": "./productos/drones/drone-dji-mini-4-pro-48-mp-4k-34-min-gris-5.8ghz-1-bateria.html"
     }
 ]
