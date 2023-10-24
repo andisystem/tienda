@@ -108,5 +108,16 @@
         },
         "precio": 4260000,
         "href": "./productos/drones/drone-dji-mini-4-pro-48-mp-4k-34-min-gris-5.8ghz-1-bateria.html"
+    },
+    {
+        "id": "drone-dji-mini-3-rc-combo-plus",
+        "titulo": "Drone DJI Mini 3 RC Combo Plus",
+        "imagen": "./img/drones/dji-mini-3-combo-plus/dji-mini-3-fly-more-combo-plus-dji-rc-2.png (1).webp",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 4560000,
+        "href": "./productos/drones/drone-dji-mini-3-rc-combo-plus.html"
     }
 ]
