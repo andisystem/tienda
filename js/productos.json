@@ -119,5 +119,16 @@
         },
         "precio": 4560000,
         "href": "./productos/drones/drone-dji-mini-3-rc-combo-plus.html"
+    },
+    {
+        "id": "camara-canon-eos-m50-mk-ii-1",
+        "titulo": "Cámara Canon M50 Mark Ii Mkii",
+        "imagen": "./img/camaras/canon-eos-m50-mk-ii/canon-eos-m50-mk-ii-1.webp",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 3574000,
+        "href": "./productos/camaras/camara-canon-eos-m50-mk-ii.html"
     }
 ]
