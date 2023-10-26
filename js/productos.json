@@ -130,5 +130,16 @@
         },
         "precio": 3574000,
         "href": "./productos/camaras/camara-canon-eos-m50-mk-ii.html"
+    },
+    {
+        "id": "combo-teclado-y-mouse-gamer-alambrico-gaming-led",
+        "titulo": "Combo Teclado y Mouse Gamer Alámbrico Gaming Led",
+        "imagen": "./img/equipos-de-computo/teclados/combo-teclado-y-mouse-gamer-alambrico-gaming-led-1.jpeg",
+        "categoria": {
+            "nombre": "Equipos de cómputo",
+            "id": "equipos-de-computo"
+        },
+        "precio": 90900,
+        "href": "./productos/equipos-de-computo/combo-teclado-y-mouse-gamer-alambrico-gaming-led.html"
     }
 ]
