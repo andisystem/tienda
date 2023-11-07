@@ -1,0 +1,189 @@
+[
+    {
+        "id": "drone-plegable-s173wf",
+        "titulo": "Drone Plegable Cámara WiFi HD 2.4G Vanguard Aircraft S173WF",
+        "imagen": "./img/drones/s173wf/dron-s173wf-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 212800,
+        "href": "./productos/drones/dron-plegable-s173wf.html"
+    },
+    {
+        "id": "camara-de-seguridad-360",
+        "titulo": "Cámara de Seguridad WiFi Full HD Robótica 360°",
+        "imagen": "./img/camaras/camara-de-seguridad-360/camara-de=seguridad-360-1.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 86400,
+        "href": "./productos/camaras/camara-de-seguridad-360.html"
+    },
+    {
+        "id": "radio-carro-android",
+        "titulo": "Radio Carro Android 9 Pantalla 10 Pulgadas WiFi Gps 1 Din + Cámara",
+        "imagen": "./img/camaras/radio-carro-android/radio-carro-android-2.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 554600,
+        "href": "./productos/camaras/radio-carro-android.html"
+    },
+    {
+        "id": "cable-para-impresora-usb-tipo-ab-5-metros",
+        "titulo": "Cable para Impresora USB Tipo A-B Alta Velocidad 5 Metros",
+        "imagen": "./img/accesorios/cable-para-impresora-usb-tipo-ab-5-metros/cable-para-impresora-usb-tipo-ab-5-metros-1.jpeg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 46900,
+        "href": "./productos/accesorios/cable-para-impresora-usb-tipo-ab-5-metros.html"
+    },
+    {
+        "id": "hosting-web-pro",
+        "titulo": "Hosting Web Pro",
+        "imagen": "./img/servidores-y-hosting/hosting/hosting-web-pro-1.jpeg",
+        "categoria": {
+            "nombre": "Servidores y hosting",
+            "id": "servidores-y-hosting"
+        },
+        "precio": 384000,
+        "href": "./productos/servidores-y-hosting/hosting-web-pro.html"
+    },
+    {
+        "id": "drone-plegable-f195",
+        "titulo": "Drone WiFi con Cámara Doble Estuche F195 Estabilizador Vuelo",
+        "imagen": "./img/drones/f195/dron-f195-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 258200,
+        "href": "./productos/drones/drone-plegable-f195.html"
+    },
+    {
+        "id": "drone-profesional-sjrc-s70w",
+        "titulo": "Drone Profesional Sjrc S70w 1080p GPS Sígueme Auto Retorno",
+        "imagen": "./img/drones/sjrc-s70w/dron-sjrc-s70w-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 1181200,
+        "href": "./productos/drones/drone-profesional-sjrc-s70w.html"
+    },
+    {
+        "id": "camara-gopro",
+        "titulo": "Cámara Gopro Mejor Calidad Full HD Sumergible 1080p",
+        "imagen": "./img/camaras/gopro/camara-gopro-1.jpeg",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 75600,
+        "href": "./productos/camaras/camara-gopro.html"
+    },
+    {
+        "id": "caja-calabaza-halloween",
+        "titulo": "Plantilla Caja Calabaza Halloween para Tortas",
+        "imagen": "./img/decoraciones-y-disenos/cajas/caja-calabaza-halloween-1.jpg",
+        "categoria": {
+            "nombre": "Decoraciones y diseños",
+            "id": "decoraciones-y-disenos"
+        },
+        "precio": 5500,
+        "href": "./productos/decoraciones-y-disenos/cajas-calabaza-halloween.html"
+    },
+    {
+        "id": "drone-dji-mini-4-pro",
+        "titulo": "Drone DJI Mini 4 Pro 48 MP 4K 34 min gris 5.8GHz 1 Batería",
+        "imagen": "./img/drones/dji-mini-4-pro/drone-dji-mini-4-pro-1.jpeg",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 4260000,
+        "href": "./productos/drones/drone-dji-mini-4-pro-48-mp-4k-34-min-gris-5.8ghz-1-bateria.html"
+    },
+    {
+        "id": "drone-dji-mini-3-rc-combo-plus",
+        "titulo": "Drone DJI Mini 3 RC Combo Plus",
+        "imagen": "./img/drones/dji-mini-3-combo-plus/dji-mini-3-fly-more-combo-plus-dji-rc-2.png (1).webp",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 4560000,
+        "href": "./productos/drones/drone-dji-mini-3-rc-combo-plus.html"
+    },
+    {
+        "id": "camara-canon-eos-m50-mk-ii-1",
+        "titulo": "Cámara Canon M50 Mark Ii Mkii",
+        "imagen": "./img/camaras/canon-eos-m50-mk-ii/canon-eos-m50-mk-ii-1.webp",
+        "categoria": {
+            "nombre": "Cámaras",
+            "id": "camaras"
+        },
+        "precio": 3574000,
+        "href": "./productos/camaras/camara-canon-eos-m50-mk-ii.html"
+    },
+    {
+        "id": "combo-teclado-y-mouse-gamer-alambrico-gaming-led",
+        "titulo": "Combo Teclado y Mouse Gamer Alámbrico Gaming Led",
+        "imagen": "./img/equipos-de-computo/teclados/combo-teclado-y-mouse-gamer-alambrico-gaming-led-1.jpeg",
+        "categoria": {
+            "nombre": "Equipos de cómputo",
+            "id": "equipos-de-computo"
+        },
+        "precio": 90900,
+        "href": "./productos/equipos-de-computo/combo-teclado-y-mouse-gamer-alambrico-gaming-led.html"
+    },
+    {
+        "id": "mouse-inalambrico",
+        "titulo": "Mouse Inalámbrico, Cómodo Diseño Curvo",
+        "imagen": "./img/equipos-de-computo/mouses/mouse-1.png",
+        "categoria": {
+            "nombre": "Equipos de cómputo",
+            "id": "equipos-de-computo"
+        },
+        "precio": 37900,
+        "href": "./productos/equipos-de-computo/mouse-inalambrico-diseno-curvo.html"
+    },
+    {
+        "id": "cargador-power-bank-portatil",
+        "titulo": "Power Bank Cargador Portátil Batería 10000mah Android iPhone E333",
+        "imagen": "./img/accesorios/cargador-power-bank-portatil/cargador-power-bank-portatil-1.jpeg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 95000,
+        "href": "./productos/accesorios/cargador-power-bank-portatil-bateria-10000mah.html"
+    },
+    {
+        "id": "drone-dji-mini-3-pro-pantalla-integrada-rc",
+        "titulo": "Drone Mini 3 Pro - Dji - Pantalla Integrada Rc",
+        "imagen": "./img/drones/dji-mini-3-pro/dji-mini-3-pro-pantalla-integrada-rc.webp",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 4250000,
+        "href": "./productos/drones/drone-dji-mini-3-pro-con-pantalla-integrada-rc.html"
+    },
+    {
+        "id": "drone-dji-mini-4-pro-pantalla-integrada-rc",
+        "titulo": "Drone Mini 4 Pro - Dji - Pantalla Integrada Rc",
+        "imagen": "./img/drones/dji-mini-4-pro/dji-mini-4-pro-pantalla-integrada-rc.webp",
+        "categoria": {
+            "nombre": "Drones",
+            "id": "drones"
+        },
+        "precio": 5250000,
+        "href": "./productos/drones/drone-dji-mini-4-pro-con-pantalla-integrada-rc.html"
+    }
+]
